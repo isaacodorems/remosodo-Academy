@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Learn",
+  "description": "An AI-powered e-learning platform that uses Gemini to dynamically generate course content, descriptions, and provide a personalized learning assistant.",
+  "requestFramePermissions": []
+}
